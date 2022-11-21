@@ -1,1 +1,3 @@
-print('Hello World\nПривет программист\n', 2 + 2, 10 / 3)
+first_variable = input('Enter your name: ')
+
+print(f'Hello {first_variable}!')
